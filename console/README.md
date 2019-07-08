@@ -12,7 +12,7 @@ You have 6 trys tos guess the number generated between 0-20
 
 Encryp and unencryp a message that you choose 
 
-![cifrado](/console/img/cifrado-cesar.PNG)
+![cifrado](/console/img/cifradoCesar.png)
 
 ### El-Ahorcado
 
